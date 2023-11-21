@@ -1,0 +1,14 @@
+G:\proyectos c#\CursoNet\CursoNet\bin\Debug\net6.0\CursoNet.exe
+G:\proyectos c#\CursoNet\CursoNet\bin\Debug\net6.0\CursoNet.deps.json
+G:\proyectos c#\CursoNet\CursoNet\bin\Debug\net6.0\CursoNet.runtimeconfig.json
+G:\proyectos c#\CursoNet\CursoNet\bin\Debug\net6.0\CursoNet.dll
+G:\proyectos c#\CursoNet\CursoNet\bin\Debug\net6.0\CursoNet.pdb
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\CursoNet.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\CursoNet.AssemblyInfoInputs.cache
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\CursoNet.AssemblyInfo.cs
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\CursoNet.csproj.CoreCompileInputs.cache
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\CursoNet.dll
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\refint\CursoNet.dll
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\CursoNet.pdb
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\CursoNet.genruntimeconfig.cache
+G:\proyectos c#\CursoNet\CursoNet\obj\Debug\net6.0\ref\CursoNet.dll
